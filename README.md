@@ -158,8 +158,9 @@ The underlying mathematical techniques can be extended to several gameplay syste
 AutoAimAssist/
 │
 ├── Source/
-│   ├── AimHackComponent.h
-│   └── AimHackComponent.cpp
+|      ├──Component
+│         ├── AutoAimAssistComponent.h
+│         └── AutoAimAssistComponent.cpp
 │
 └── README.md
 ```
